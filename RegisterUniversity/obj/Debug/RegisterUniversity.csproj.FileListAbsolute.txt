@@ -1,0 +1,9 @@
+C:\Users\chokc\source\repos\RegisterUniversity\RegisterUniversity\bin\Debug\RegisterUniversity.exe.config
+C:\Users\chokc\source\repos\RegisterUniversity\RegisterUniversity\bin\Debug\RegisterUniversity.exe
+C:\Users\chokc\source\repos\RegisterUniversity\RegisterUniversity\bin\Debug\RegisterUniversity.pdb
+C:\Users\chokc\source\repos\RegisterUniversity\RegisterUniversity\obj\Debug\RegisterUniversity.csprojAssemblyReference.cache
+C:\Users\chokc\source\repos\RegisterUniversity\RegisterUniversity\obj\Debug\RegisterUniversity.Form1.resources
+C:\Users\chokc\source\repos\RegisterUniversity\RegisterUniversity\obj\Debug\RegisterUniversity.Properties.Resources.resources
+C:\Users\chokc\source\repos\RegisterUniversity\RegisterUniversity\obj\Debug\RegisterUniversity.csproj.GenerateResource.cache
+C:\Users\chokc\source\repos\RegisterUniversity\RegisterUniversity\obj\Debug\RegisterUniversity.exe
+C:\Users\chokc\source\repos\RegisterUniversity\RegisterUniversity\obj\Debug\RegisterUniversity.pdb
